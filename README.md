@@ -1,4 +1,4 @@
-# 🧠 Dev Timeline AI Agent
+# 🧠 Commit Tracker AI Agent
 
 This project is an AI-powered timeline tracker that reads tasks from a Google Sheet, analyzes matching GitHub commits, summarizes them using OpenAI GPT-4, predicts task delay status, and writes AI-powered insights back into the sheet.
 
