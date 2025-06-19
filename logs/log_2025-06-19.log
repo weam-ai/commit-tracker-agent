@@ -1,0 +1,4 @@
+2025-06-19 16:04:13,503 - INFO -  - 🔄 Fetching tasks from Google Sheet...
+2025-06-19 16:04:13,503 - INFO -  - ✅ Loaded credentials from token.pickle.
+2025-06-19 16:04:14,363 - ERROR -  - ❌ Failed to read Google Sheet: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/your-google-sheet-id/values/Sheet1%21A%3AE?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-06-19 16:04:14,370 - WARNING -  - ⚠️ No data found in the sheet.

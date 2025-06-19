@@ -1,0 +1,1 @@
+Temporary data like cached timelines or commit logs.
