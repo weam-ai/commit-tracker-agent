@@ -143,11 +143,11 @@ logs/log_2025-06-19.log
 - `google-auth`, `google-auth-oauthlib`
 - `pandas`
 - `requests`
-- `python-dotenv` (optional)
+- `python-dotenv`
 
 ---
 
-## 🔒 .env Example (Optional)
+## 🔒 .env Example
 
 You can use a `.env` file to store secrets:
 
@@ -189,15 +189,3 @@ LOG_FILE=logs/application.log
 ```
 
 ---
-
-## 🙌 Author
-
-**Dhruvish Patel**  
-Backend Developer | AI Automator  
-📧 Contact: [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-handle)
-
----
-
-## 📄 License
-
-For personal or internal use only. Not licensed for public redistribution.
